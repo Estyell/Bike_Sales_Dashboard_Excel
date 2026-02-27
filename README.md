@@ -57,7 +57,7 @@ Microsoft Excel
 
 
 ## Dashboard Created
--Dashoard Interaction	<a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png">View_Dashboard</a>
+-Dashoard Interaction	<a href="https://github.com/Estyell/Bike_Sales_Dashboard_Excel/blob/main/Dashboard.png">View_Dashboard</a>
 
 
 ## Dashboard
