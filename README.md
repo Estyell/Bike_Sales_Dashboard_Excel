@@ -33,7 +33,7 @@ There will be one data manager who updates the dataset with new sales records.</
 ### Source
 The data used was a demo dataset.
 
-- <a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/DemoDashboard_Data.xlsx">Dataset</a>
+- <a href="https://github.com/Estyell/Bike_Sales_Dashboard_Excel/blob/main/Sales.csv">Dataset</a>
 
 ### Cleaning & Transformations
 #### Key Assumptions
