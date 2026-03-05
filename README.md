@@ -1,16 +1,19 @@
-# Bike_Sales_Dashboard_Excel
-An excel project to analyze and visualize the sales data of a bike store across different regions
+# Bike Sales Performance & Demographics Analysis
+
+![Dashboard Preview](Dashboard.png)
+
 
 ## Business Context
-This project was created for a bike store that sells bikes across different regions of the world.
-The store has sales data for different purchases, with a focus on the clientele information including their age, income, location etc.
+In this project, I acted as a **Data Consultant** to identify why certain customers buy bikes while others don't. I didn't just move data; I applied business logic to drive marketing decisions.
 
-## Project Objective
-With this data, the store owner would like to have a better understanding of the different demographics of their clientele.
-They would like to know what kind of clients are purchasing their bikes.
+* **Demographic Segmentation:** I categorized "Age" into three specific brackets (Adolescent, Middle Age, Old). **The Logic:** Marketing teams need to know *who* to target with ads. My analysis proved that "Middle Age" is the primary revenue driver.
+* **Commute Impact Analysis:** I isolated "Commute Distance" as a key variable. **The Logic:** If a customer lives 0-1 miles away, their "Intent to Buy" is 20% higher. This suggests the business should focus on local geo-targeted advertising.
+* **Data Integrity (ETL):** I used **Power Query** to transform raw codes (like 'M' and 'S') into 'Married' and 'Single'. **The Logic:** Reports must be "Executive-Ready." Decision-makers shouldn't have to decode abbreviations to understand their data.
 
-## Business Problem
-Sales data exists, but is not structured well to give a quick insights on "who" is interested in their product.
+## 🛠️ Technical Execution
+* **Tool:** Microsoft Excel (Advanced)
+* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions.
+* **Process:** Raw Data Cleaning ➔ Feature Engineering ➔ Pivot Aggregation ➔ Dashboard UI Design.
 
 ## Stakeholders
 Bike store manager
@@ -46,18 +49,11 @@ Each row represents one sales transaction
 • The Commute Distance was not sorting the data in order because of the “10+ Miles”, putting it in the second position, this was converted to “More than 10 miles” so it can appear at the bottom
 •	Ensure the data is consistent and clean with respect to data types, data format, and data values used.
 
-### Tools Used
-Microsoft Excel
-
-
 ## Business Questions
 •	Does the income of buyers influence their purchasing power?</br>
 •	Does the commuting distance of the buyer affect their bike purchase decision?</br>
 •	How does the age bracket of the buyer infuence their buying decision?</br>
 
 
-## Dashboard Created
--Dashoard Interaction	<a href="https://github.com/Estyell/Bike_Sales_Dashboard_Excel/blob/main/Dashboard.png">View_Dashboard</a>
 
 
-## Dashboard
