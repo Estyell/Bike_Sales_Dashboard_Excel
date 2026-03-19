@@ -31,9 +31,8 @@ The solution should be able to show how the commute distance affects the buyers 
 The users will have access to the dashboard but not the dataset feeding the dashboards.</br>
 There will be one data manager who updates the dataset with new sales records.</br>
 
-> **Note:** Sales.csv contains the raw dataset (1,000 records) used to feed the Excel dashboard. The workbook with full pivot tables and dashboard is available upon request.
-
 ## Dataset Used
+> **Note:** Sales.csv contains the raw dataset (1,000 records) used to feed the Excel dashboard. The workbook with full pivot tables and dashboard is available upon request.
 ### Source
 The data used was a demo dataset.
 
@@ -62,5 +61,5 @@ Each row represents one sales transaction
 - **Income level** positively correlates with purchase likelihood — higher-income customers converted at a significantly higher rate across all age brackets
 - Marketing recommendation: prioritize **middle-aged, short-commute, higher-income** segments for targeted campaigns
 
-
-
+---
+📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/stella-ngei-95241565)
