@@ -12,7 +12,7 @@ In this project, I acted as a **Data Consultant** to identify why certain custom
 
 ## 🛠️ Technical Execution
 * **Tool:** Microsoft Excel (Advanced)
-* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions.
+* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions, Power Query (Advanced).
 * **Process:** Raw Data Cleaning ➔ Feature Engineering ➔ Pivot Aggregation ➔ Dashboard UI Design.
 
 ## Stakeholders
@@ -31,6 +31,7 @@ The solution should be able to show how the commute distance affects the buyers 
 The users will have access to the dashboard but not the dataset feeding the dashboards.</br>
 There will be one data manager who updates the dataset with new sales records.</br>
 
+> **Note:** Sales.csv contains the raw dataset (1,000 records) used to feed the Excel dashboard. The workbook with full pivot tables and dashboard is available upon request.
 
 ## Dataset Used
 ### Source
@@ -54,6 +55,12 @@ Each row represents one sales transaction
 •	Does the commuting distance of the buyer affect their bike purchase decision?</br>
 •	How does the age bracket of the buyer infuence their buying decision?</br>
 
+## 📊 Key Findings
+
+- **Middle-age bracket** accounted for **38.8% of all bike purchases** (388 out of 1,000 customers), making them the single largest buyer segment
+- Customers with a **0–1 mile commute distance** recorded the highest purchase rate, suggesting proximity is a strong purchase trigger
+- **Income level** positively correlates with purchase likelihood — higher-income customers converted at a significantly higher rate across all age brackets
+- Marketing recommendation: prioritize **middle-aged, short-commute, higher-income** segments for targeted campaigns
 
 
 
