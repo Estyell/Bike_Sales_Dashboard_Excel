@@ -12,7 +12,7 @@ In this project, I acted as a **Data Consultant** to identify why certain custom
 
 ## 🛠️ Technical Execution
 * **Tool:** Microsoft Excel (Advanced)
-* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions, Power Query (Advanced).
+* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions, Power Query.
 * **Process:** Raw Data Cleaning ➔ Feature Engineering ➔ Pivot Aggregation ➔ Dashboard UI Design.
 
 ## Stakeholders
