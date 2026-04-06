@@ -4,19 +4,18 @@
 
 
 ## Business Context
-In this project, I acted as a **Data Consultant** to identify why certain customers buy bikes while others don't. I didn't just move data; I applied business logic to drive marketing decisions.
+In this project, I acted as a **Data Consultant** to identify why certain customers buy bikes while others don't, applying business logic to drive marketing decisions.
 
-* **Demographic Segmentation:** I categorized "Age" into three specific brackets (Adolescent, Middle Age, Old). **The Logic:** Marketing teams need to know *who* to target with ads. My analysis proved that "Middle Age" is the primary revenue driver.
-* **Commute Impact Analysis:** I isolated "Commute Distance" as a key variable. **The Logic:** If a customer lives 0-1 miles away, their "Intent to Buy" is 20% higher. This suggests the business should focus on local geo-targeted advertising.
-* **Data Integrity (ETL):** I used **Power Query** to transform raw codes (like 'M' and 'S') into 'Married' and 'Single'. **The Logic:** Reports must be "Executive-Ready." Decision-makers shouldn't have to decode abbreviations to understand their data.
+* **Demographic Segmentation:** "Age" was categorized into three specific brackets (Adolescent, Middle Age, Old). This allows the marketing team to know *who* to target with ads. This analysis proved that the "Middle Age" category is the primary revenue driver with 80.7% of total sales.
+* **Commute Impact Analysis:** "Commute Distance" was isolated as a key variable. From the analysis, the customers living 0-1 miles away lead the revenue drive by 40.6%, indicating that their "Intent to Buy" is higher. This suggests the business should focus on local geo-targeted advertising.
 
 ## 🛠️ Technical Execution
-* **Tool:** Microsoft Excel (Advanced)
-* **Features:** Pivot Tables, Multi-Axis Charts, Dynamic Slicers, Nested IF Functions, Power Query.
+* **Tool:** Microsoft Excel
+* **Features:** Pivot Tables, Dynamic Slicers, Nested IF Functions.
 * **Process:** Raw Data Cleaning ➔ Feature Engineering ➔ Pivot Aggregation ➔ Dashboard UI Design.
 
 ## Stakeholders
-Bike store manager
+Bike Store manager
 
 ## Business Requirements
 To have a better understanding of how different demographics of their clientele affects their purchasing power.
@@ -56,10 +55,13 @@ Each row represents one sales transaction
 
 ## 📊 Key Findings
 
-- **Middle-age bracket** accounted for **38.8% of all bike purchases** (388 out of 1,000 customers), making them the single largest buyer segment
+- **Middle-age bracket** accounted for **80.7%% of all bike purchases**, making them the single largest buyer segment
 - Customers with a **0–1 mile commute distance** recorded the highest purchase rate, suggesting proximity is a strong purchase trigger
 - **Income level** positively correlates with purchase likelihood — higher-income customers converted at a significantly higher rate across all age brackets
-- Marketing recommendation: prioritize **middle-aged, short-commute, higher-income** segments for targeted campaigns
+
+## Marketing recommendation
+
+Prioritize **middle-aged, short-commute, higher-income** segments for targeted campaigns
 
 ---
 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/stella-ngei-95241565)
